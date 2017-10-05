@@ -1,0 +1,15 @@
+-  request:
+      method: GET
+      url: /service2
+ 
+   response:
+      status: 200
+      body: Hello World2!
+
+ -  request:
+      method: GET
+      url: /service3
+ 
+   response:
+      status: 200
+      body: Hello World3!
